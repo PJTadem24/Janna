@@ -33,7 +33,7 @@
        	<h1> Subtrahend: {{$num2}}</h1>
        	<h1> difference: {{$div=$num1/$num2}}</h1>
 
-       	@endif
+       	@endi
        </center>
 </body>
 </html>
